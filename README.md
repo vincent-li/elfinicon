@@ -21,13 +21,22 @@ elfinicon 是一个动态矢量图标库。
 1. **异步化，展示快，无延时。**icon数据每个icon一份，根据数据配置异步加载缓存。无需等待大量图标数据下载完成再展示。
 
 ## 引用参数解释
-- **Jekyll-Bootstrap Framework.** 
-- **Jekyll-Bootstrap Framework.** 
+- **name** 
+	图标名称决定图标的内容，根据名称加载你需要的图标。
+
+- **size** 
+	图标尺寸，按照基本尺寸32px为标准缩放。如果size="64"，就是放大1倍，当然绝对尺寸还是64px;
+
+- **color**
+	图标颜色，可以设置整体图标颜色，除了彩色静态图标。
+
+- **hover-color**
+	图标hover时候的颜色
 
 
 ## 图标库索引
 
-[icon列表]();
+[icon列表](http://vincent-li.github.io/elfinicon);
 
 ## License
 [MIT](http://opensource.org/licenses/MIT)
