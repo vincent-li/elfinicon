@@ -1,4 +1,4 @@
-# 基于angularjs seajs raphaeljs jquery 的 svg icon库
+# 基于angularjs raphaeljs jquery 的 svg icon库
 
 elfinicon 是一个动态矢量图标库。
 
